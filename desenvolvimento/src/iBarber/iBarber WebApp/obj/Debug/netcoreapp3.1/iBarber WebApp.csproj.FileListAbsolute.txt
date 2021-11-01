@@ -1,0 +1,41 @@
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\bin\Debug\netcoreapp3.1\iBarber WebApp.exe
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\bin\Debug\netcoreapp3.1\iBarber WebApp.deps.json
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\bin\Debug\netcoreapp3.1\iBarber WebApp.runtimeconfig.json
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\bin\Debug\netcoreapp3.1\iBarber WebApp.runtimeconfig.dev.json
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\bin\Debug\netcoreapp3.1\iBarber WebApp.dll
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\bin\Debug\netcoreapp3.1\iBarber WebApp.pdb
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\bin\Debug\netcoreapp3.1\iBarber WebApp.Views.dll
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\bin\Debug\netcoreapp3.1\iBarber WebApp.Views.pdb
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\obj\Debug\netcoreapp3.1\iBarber WebApp.csproj.AssemblyReference.cache
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\obj\Debug\netcoreapp3.1\iBarber WebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\obj\Debug\netcoreapp3.1\iBarber WebApp.AssemblyInfoInputs.cache
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\obj\Debug\netcoreapp3.1\iBarber WebApp.AssemblyInfo.cs
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\obj\Debug\netcoreapp3.1\iBarber WebApp.csproj.CoreCompileInputs.cache
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\obj\Debug\netcoreapp3.1\iBarber WebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\obj\Debug\netcoreapp3.1\iBarber WebApp.RazorAssemblyInfo.cache
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\obj\Debug\netcoreapp3.1\iBarber WebApp.RazorAssemblyInfo.cs
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\obj\Debug\netcoreapp3.1\staticwebassets\iBarber WebApp.StaticWebAssets.Manifest.cache
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\obj\Debug\netcoreapp3.1\staticwebassets\iBarber WebApp.StaticWebAssets.xml
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\obj\Debug\netcoreapp3.1\scopedcss\bundle\iBarber WebApp.styles.css
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\obj\Debug\netcoreapp3.1\iBarber WebApp.TagHelpers.input.cache
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\obj\Debug\netcoreapp3.1\iBarber WebApp.TagHelpers.output.cache
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\obj\Debug\netcoreapp3.1\iBarber WebApp.RazorCoreGenerate.cache
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Barbearia\Adicionar.cshtml.g.cs
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Barbearia\Index.cshtml.g.cs
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Barbearia\Listar.cshtml.g.cs
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\obj\Debug\netcoreapp3.1\iBarber WebApp.RazorTargetAssemblyInfo.cache
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\obj\Debug\netcoreapp3.1\iBarber WebApp.RazorTargetAssemblyInfo.cs
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\obj\Debug\netcoreapp3.1\iBarber WebApp.Views.pdb
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\obj\Debug\netcoreapp3.1\iBarber WebApp.dll
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\obj\Debug\netcoreapp3.1\iBarber WebApp.pdb
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\obj\Debug\netcoreapp3.1\iBarber WebApp.genruntimeconfig.cache
+C:\Users\Jeferson Piires\Documents\Visual Studio 2019\iBarber-main\desenvolvimento\src\iBarber\iBarber WebApp\obj\Debug\netcoreapp3.1\iBarber WebApp.csproj.CopyComplete

@@ -1,0 +1,36 @@
+﻿@model List<Barbearia>
+
+<h3>
+    CADASTRO DE BARBEARIAS
+    <a class="btn btn-sm btn-primary float-right" href="/Barbearia/Adicionar">
+        + ADICIONAR
+    </a>
+</h3>
+
+<table class="table table-hover ">
+    <thead>
+        <tr>
+            <th>CNPJ</th>
+            <th>Nome</th>
+            <th>Local</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.CNPJ</td>
+                <td>@item.Nome</td>
+                <td>@item.Local</td>
+                <td>
+                    <a href="/Barbearia/Editar?cnpj=@item.CNPJ" class="btn btn-sm btn-warning">
+                        Editar
+                    </a>
+                    <a href="/Barbearia/Excluir?cnpj=@item.CNPJ" class="btn btn-sm btn-danger">
+                        Excluir
+                    </a>
+                </td>
+            </tr>
+        }
+    </tbody>

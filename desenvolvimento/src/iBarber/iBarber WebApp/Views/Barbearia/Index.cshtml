@@ -1,0 +1,32 @@
+﻿@model Barbearia
+
+<h1>
+    @Model.CNPJ
+</h1>
+
+<h4>
+    @Model.Nome
+</h4>
+
+@if (Model.VerificarCPNJBarbearia())
+{
+    <div class="alert alert-success">
+       AS MELHORES BARBEARIAS DO BRASIL
+    </div>
+}
+else
+{
+    <div class="alert alert-warning">
+        OOOHH NOO.
+    </div>
+}
+
+<input type="text" value="@Model.CNPJ" class="form-control" />
+<br />
+<input type="text" value="@Model.Nome" />
+
+<br />
+<br />
+<button class="btn btn-block btn-success">
+    SUCESSO!
+</button>
